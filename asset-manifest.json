@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kongsam/static/js/main.e0dddf80.js",
+    "main.js": "/kongsam/static/js/main.60bc6027.js",
     "index.html": "/kongsam/index.html",
-    "main.e0dddf80.js.map": "/kongsam/static/js/main.e0dddf80.js.map"
+    "main.60bc6027.js.map": "/kongsam/static/js/main.60bc6027.js.map"
   },
   "entrypoints": [
-    "static/js/main.e0dddf80.js"
+    "static/js/main.60bc6027.js"
   ]
 }
