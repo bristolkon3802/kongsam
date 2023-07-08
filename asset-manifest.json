@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kongsam/static/css/main.26478454.css",
-    "main.js": "/kongsam/static/js/main.87e4c0aa.js",
+    "main.css": "/kongsam/static/css/main.0b193137.css",
+    "main.js": "/kongsam/static/js/main.eb2b5fad.js",
     "index.html": "/kongsam/index.html",
-    "main.26478454.css.map": "/kongsam/static/css/main.26478454.css.map",
-    "main.87e4c0aa.js.map": "/kongsam/static/js/main.87e4c0aa.js.map"
+    "main.0b193137.css.map": "/kongsam/static/css/main.0b193137.css.map",
+    "main.eb2b5fad.js.map": "/kongsam/static/js/main.eb2b5fad.js.map"
   },
   "entrypoints": [
-    "static/css/main.26478454.css",
-    "static/js/main.87e4c0aa.js"
+    "static/css/main.0b193137.css",
+    "static/js/main.eb2b5fad.js"
   ]
 }
